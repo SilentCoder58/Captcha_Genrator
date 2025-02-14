@@ -1,4 +1,4 @@
-# Captcha Verification with Tkinter
+# Captcha_Genrator with Tkinter
 
 This is a simple Python project that generates a CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) using Tkinter for the GUI and the `captcha` library to create and display the CAPTCHA image. The application verifies the user's input against a randomly generated 6-digit code.
 
